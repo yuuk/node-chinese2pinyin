@@ -1,1 +1,1 @@
-# a CLI tool for translate chinese to pinyin
+# A CLI tool for translate chinese to pinyin
