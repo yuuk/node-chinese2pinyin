@@ -12,6 +12,10 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/yuuk/node-chinese2pinyin"
+    },
 	"author": "yuuk",
 	"license": "ISC",
 	"dependencies": {
