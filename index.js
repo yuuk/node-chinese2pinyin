@@ -3,8 +3,6 @@
 const pinyin = require('./lib/py');
 const { log } = require('./utils/index');
 
-
-
 function translate(word) {
 	let str = '';
 	let s;
@@ -32,4 +30,3 @@ if (!word) {
     let res = translate(word);
     log(`查询成功：${res}`, 'green');
 }
-
